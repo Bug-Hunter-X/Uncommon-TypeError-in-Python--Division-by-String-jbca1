@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating an uncommon TypeError. The program attempts to divide an integer by a string, which results in a TypeError. The solution involves adding input validation to prevent this error.
